@@ -1,7 +1,6 @@
 apply plugin: 'com.android.application'
 
 android {
-    //http://stackoverflow.com/questions/29513940/how-to-import-zxing-to-android-studio
     compileSdkVersion 25
     buildToolsVersion "25.0.2"
     defaultConfig {
